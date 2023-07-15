@@ -1,0 +1,31 @@
+1. Rebase vs. Merge
+2. git --version 
+3. Porcelain  commands
+	git add
+	git commit
+	git push
+	git pull
+	git branch
+	git switch
+	git switch
+	git rebase
+Plumbimg commands:
+	git cat-file
+	git hash-object
+	git count-object
+man git
+git - the stupid content tracker
+
+	
+git : key value map 
+value is sha-1 is 40 hex": echo "Apple pie" | git hash-object --stdin
+git is a persistent map
+git objects:
+	Blobs
+	Trees
+	Commits
+	Annotation Tag
+
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"
+ Rename branch git barnch -m main
